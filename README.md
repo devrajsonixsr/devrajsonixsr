@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 I am a Senior Undergraduate at [IIT(BHU), Varanasi](iitbhu.ac.in), majoring in Metallurgical Engineering. I am a full-stack developer and my Tech-Stack includes MongoDB, ExpressJS, ReactJS, NodeJS, MySQL, Javascript, and, HTML/CSS/Bootstrap.
 
-🔭 I’m currently working on XYZ
-🌱 I’m currently learning
+- 🔭 I’m currently working on XYZ
+- 🌱 I’m currently learning
 
-🏸 When I'm neither coding nor sleepin, I play Badminton. Would like to play a match with me? Reach out to me through my [Personal Website](link)
+- 🏸 When I'm neither coding nor sleepin, I play Badminton. Would like to play a match with me? Reach out to me through my [Personal Website](link)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
